@@ -10,7 +10,7 @@ This is a demo FinTech API created for various API Calling.
 5. Deposit to Customer
 6. Withdraw Money
 7. Send Money
-8. Make Paymen
+8. Make Payment
 9. Check Balance and Statement
 
 ## How To Run This Project
